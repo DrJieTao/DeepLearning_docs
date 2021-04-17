@@ -195,12 +195,12 @@ The following course outline is tentative and subject to change when and where d
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
 | Week1 | What is Deep Learning | IDL Chap 1 |  |
-| Week2 | Deep Learning Basics | IDL Chap 2 | __Datacamp Assignment 1 Due__ |
-| Week3 | Train & Optimize Your Neural Networks | IDL Chap. 2 |  |
-| Long Saturday 1 | Neural Network Architecture | IDL Chap. 3 - 4 | __DataCamp Assignment 2 Due__ |
+| Week2 | Neural Networks Basics | IDL Chap 2 - 3 | __Datacamp Assignment 1 Due__ |
+| Long Saturday 1 | Workshop 1: Keras Basics | Extra Contents |  |
+| Week3 | Neural Networks Building Blocks | Extra Contents | __DataCamp Assignment 2 Due__ |
 | Week4 | Convolutional Neural Networks | IDL Chap. 5 |  |
 | Long Saturday 2 |  | CV Workshop | __DataCamp Assignment 3 Due__ |
 | Week5 | Recurrent Neural Networks | IDL Chap. 6 | |
 | Long Saturday 3 |  | NLP Workshop | __DataCamp Assignment 4 Due__  |
-| Week6 | Latest Development in Deep Learning | Extra Contents - TBD |  |
+| Week6 | Advanced Topics in Deep Learning | Extra Contents |  |
 
