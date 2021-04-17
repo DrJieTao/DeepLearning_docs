@@ -122,7 +122,7 @@ __NOTE:__ Please check each week's schedule/checklist frequently for important d
 
 ### DataCamp Assignments
 
-There are __four (4)__ assignments in this course, which covers different phases/aspects of a deep learning project. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class ses-sion and related practices.
+There are __four (4)__ assignments in this course, which covers different phases/aspects of a deep learning project. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class session and related practices.
 
 <!--TODO: Jie: add datacamp course -->
 
