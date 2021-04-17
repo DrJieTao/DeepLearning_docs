@@ -120,18 +120,20 @@ __NOTE:__ All submissions should be in __Jupyter Notebooks__.
 
 __NOTE:__ Please check each week's schedule/checklist frequently for important dates and other information.
 
-### Coding Assignments
+### DataCamp Assignments
 
-There are __four (4)__ coding assignments in this course, which covers different phases/aspects of a deep learning project. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class ses-sion and related practices.
+There are __four (4)__ assignments in this course, which covers different phases/aspects of a deep learning project. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class ses-sion and related practices.
 
-These assignments will be made available along this course, please pay attention to each week's schedule/checklist.
+<!--TODO: Jie: add datacamp course--/>
 
-It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects.
+These assignments will be made available along this course via our [DataCamp course](), please pay attention to each week's schedule/checklist.
 
-For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work. The checkpoint is the _Saturday_ of the same week the respective part is released.
+It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects. It is __YOUR__ responsiblity to make sure you have a working DataCamp account, and is enrolled in the DataCamp companion course of this course.
+
+<!--For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work. The checkpoint is the _Saturday_ of the same week the respective part is released.--/>
 
 
-Completed notebooks should be submitted to your Google Classroom. __No email submission will be accepted.__
+<!--Completed notebooks should be submitted to your Google Classroom. __No email submission will be accepted.__--/>
 
 ### Course Project
 
