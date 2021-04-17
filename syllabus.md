@@ -133,7 +133,8 @@ It is expected that you __collaborate__ with your peers - but you still need to 
 <!--For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work. The checkpoint is the _Saturday_ of the same week the respective part is released.--/>
 
 
-<!--Completed notebooks should be submitted to your Google Classroom. __No email submission will be accepted.__--/>
+<!--Completed notebooks should be submitted to your Google Classroom. __No email submission will be accepted.__/>
+
 
 ### Course Project
 
