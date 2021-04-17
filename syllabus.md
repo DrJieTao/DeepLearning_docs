@@ -40,7 +40,7 @@ Support staff office hours and locations to be announced.
 
 ### Course Description
 
-This course introduces students to the latest development of machine learning, namely __deep learning__, as well as its applications to a variety of domains. Fundamental knowldege, such as the architectures of the deep neural networks, extraction of high-level features representing unstructured data, backpropagation, and  stochastic gradient descent. Additionally, tudents get hands-on experience building deep neural network models with Python.
+This course introduces students to the latest development of machine learning, namely __deep learning__, as well as its applications to a variety of domains. Fundamental knowldege, such as the architectures of the deep neural networks, extraction of high-level features representing unstructured data, backpropagation, and  stochastic gradient descent. Additionally, students get hands-on experience building deep neural network models with Python.
 
 Topics covered in this class including model building and optimization, image classification, natural language processing, generative models, and so forth. These topics cover the fundations and the latest developments in the field of deep learning.
 
