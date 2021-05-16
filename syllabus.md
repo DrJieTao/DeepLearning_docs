@@ -142,11 +142,11 @@ The course project is the comprehensive assessment of this course. The project i
 to demonstrate their proficiency. Each portfolio should consist of one or more Jupyter notebooks
 posted on __Colab__, and should focus on analyzing a particular set of data to uncover business insights. Students are encouraged to find their own datasets rather than using
 those from in-class activities. There are __four__ deliverables for the final project:
-+ _Proposal (10%)_: a Jupyter notebook describing the dataset, basic descriptive features of the
++ _Proposal (5%)_: a Jupyter notebook describing the dataset, basic descriptive features of the
 data, and a plan for more in-depth analysis. The notebook should clearly describe the purpose,
 methodology, and anticipated result of the analysis to a non-technical business audience.
 + _Milestone Report (10%)_: report the progress of the project.
-+ _Final deliverable and presentation (10% each)_: the completed portfolio, composed of one or more Jupyter
++ _Final deliverable and presentation (15% and 10% respectively)_: the completed portfolio, composed of one or more Jupyter
 notebooks. They should be written with a target audience of a manager in a relevant company 
 and should be written with clear descriptions and explanations that are understandable to a
 non-technical audience.
