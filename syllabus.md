@@ -155,7 +155,7 @@ non-technical audience.
 her own contribution to the project, as well as a breakdown of the percentage of total work performed
 by each person in the team. The breakdown must add up to 100% and must include yourself. This
 will be used to adjust individual grades if certain members contributed little. Detailed instructions and
-grading rubric for each deliverable will be posted before they are due. --/>
+grading rubric for each deliverable will be posted before they are due. -->
 
 
 ### Participation and Professionalism
