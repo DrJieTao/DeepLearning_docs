@@ -178,7 +178,7 @@ __Professionalism__: As budding professionals and business majors, conduct yours
 
 ## Other Course Policies
 
-__Computer and Lab__: You will have to bring in a laptop for every class in order to complete the in-class tutorials. It is your responsibility to make sure that your laptop is up-to-date so that it runs the system smoothly. You will need to have access to a Jupyter environment to complete the course work - fail to do so will lead to failing the course.
+__Computer and Lab__: You will have to bring in a laptop for every class in order to complete the in-class tutorials. It is your responsibility to make sure that your laptop is up-to-date so that it runs the system smoothly. You will need to have access to a Jupyter environment to complete the course work - fail to do so will lead to failing the course. Make sure you use __Google Chrome__ as the web browser.
 
 __Course Materials__: All the teaching materials, including assignments and exams, are the intellectual properties of Fairfield University – distributing such materials without written approval is strongly prohibited.
 
