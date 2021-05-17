@@ -151,11 +151,12 @@ notebooks. They should be written with a target audience of a manager in a relev
 and should be written with clear descriptions and explanations that are understandable to a
 non-technical audience.
 
-With the submission of the final deliverable, each individual will complete a survey describing his or
+<!--With the submission of the final deliverable, each individual will complete a survey describing his or
 her own contribution to the project, as well as a breakdown of the percentage of total work performed
 by each person in the team. The breakdown must add up to 100% and must include yourself. This
 will be used to adjust individual grades if certain members contributed little. Detailed instructions and
-grading rubric for each deliverable will be posted before they are due. 
+grading rubric for each deliverable will be posted before they are due. />
+
 
 ### Participation and Professionalism
 Given the large class enrollment and the technical nature of the subject, it is critical that everyone take a professional approach to learning the material. Students are expected to come to class prepared and then participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated.
