@@ -126,7 +126,7 @@ There are __four (4)__ assignments in this course, which covers different phases
 
 <!--TODO: Jie: add datacamp course -->
 
-These assignments will be made available along this course via our [DataCamp course](), please pay attention to each week's schedule/checklist.
+These assignments will be made available along this course via our [DataCamp course](https://www.datacamp.com/groups/shared_links/7c9f0b836086fae9752638e1ac724f1c5d015ac7818b1a6eae86ac1d5af1df20), please pay attention to each week's schedule/checklist.
 
 It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects. It is __YOUR__ responsiblity to make sure you have a working DataCamp account, and is enrolled in the DataCamp companion course of this course.
 
