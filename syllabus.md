@@ -18,7 +18,7 @@ Course Syllabus, Summer 2022
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Contact:** DM on Slack       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** Sun., 3-6PM, or by appointment, [Zoom](https://fairfield.zoom.us/j/9579872640) only        |                  |
+| **Office:** DSBN 338 | **Office Hours:** Extended Office Hour Only [Appointment System](), [Zoom](https://fairfield.zoom.us/j/9579872640) or in person        |                  |
 
 ## Course Support Staff
 - Instructional Technologist: Yue Pu (Contact by DM on Slack) 
@@ -35,7 +35,7 @@ Support staff office hours and locations to be announced.
 :--- | :--- 
 **Course Number:** `DATA 6575` | **Credit Hours:** 3 | 
 **Prerequisites:** `DATA 6545` | **Course Duration**: May, 23 - July, 1 |
-**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** Extended Office Hour Only [Appointment System]() |
+**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** Extended Office Hour Only [Appointment System](), [Zoom](https://fairfield.zoom.us/j/9579872640) or in person  |
 
 
 ### Course Description
