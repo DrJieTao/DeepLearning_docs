@@ -18,7 +18,7 @@ Course Syllabus, Summer 2022
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Contact:** DM on Slack       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** Extended Office Hour Only [Appointment System](), [Zoom](https://fairfield.zoom.us/j/9579872640) or in person        |                  |
+| **Office:** DSBN 338 | **Office Hours:** [Appointment System](), [Zoom](https://fairfield.zoom.us/j/9579872640) or in person        |                  |
 
 ## Course Support Staff
 - Instructional Technologist: Yue Pu (Contact by DM on Slack) 
