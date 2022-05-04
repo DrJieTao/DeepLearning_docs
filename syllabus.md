@@ -35,7 +35,7 @@ Support staff office hours and locations to be announced.
 :--- | :--- 
 **Course Number:** `DATA 6575` | **Credit Hours:** 3 | 
 **Prerequisites:** `DATA 6545` | **Course Duration**: May, 23 - July, 1 |
-**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** TBD [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-2023) |
+**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** Extended Office Hour Only [Appointment System]() |
 
 
 ### Course Description
