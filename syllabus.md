@@ -1,6 +1,6 @@
-# ISOM/DATA 6900: Deep Learning & Artificial Intelligence
+# DATA 6575: Deep Learning & Artificial Intelligence
 
-Course Syllabus, Summer 2021
+Course Syllabus, Summer 2022
 ---
 ## Table of Contents
 + [Professor Information](#professor-information)
@@ -17,8 +17,8 @@ Course Syllabus, Summer 2021
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
-| **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** Sun., 3-6PM, or by appointment, [Zoom](https://fairfield.zoom.us/j/9579872640) only        | Contact: DM on Slack                  |
+| **Name:** Jie Tao    | **Contact:** DM on Slack       | **Phone:** (203)254-4000 x 2232       |
+| **Office:** DSBN 338 | **Office Hours:** Sun., 3-6PM, or by appointment, [Zoom](https://fairfield.zoom.us/j/9579872640) only        |                  |
 
 ## Course Support Staff
 - Instructional Technologist: Yue Pu (Contact by DM on Slack) 
@@ -33,9 +33,9 @@ Support staff office hours and locations to be announced.
 ## Course Information
 | **Title:** Deep Learning & Artificial Intelligence |  |
 :--- | :--- 
-**Course Number:** `ISOM/DATA 6900` | **Credit Hours:** 3 | 
-**Prerequisites:** `BUAN 6545` | **Course Duration**: TBD |
-**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** TBD [academic calendar](https://wiki.fairfield.edu/display/OUR/2020-2021) |
+**Course Number:** `DATA 6575` | **Credit Hours:** 3 | 
+**Prerequisites:** `DATA 6545` | **Course Duration**: May, 23 - July, 1 |
+**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** TBD [academic calendar](https://wiki.fairfield.edu/display/OUR/2022-2023) |
 
 
 ### Course Description
@@ -52,14 +52,14 @@ Besides the theoretical contents, students also gain hands-on experiences of bui
 + Deep Learning with Python, by Chollet (2017, ISBN-13: 9781617294433).
 
 ### Recommended Reference Book
-Below textbook is recommended for further reference.
+Below textbook is recommended but _optional_ for further reference.
 + Deep Learning, by Goodfellow, Bengio, and Courville (ISBN-13: 978-0262035613)
 
 ### Other Materials
 Other materials used in this course include, but not limit to: lecture slides, Jupyter notebooks, data files - these will be distributed via __Google Classroom__.
 
 ### Technical Requirements
-Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. It is recommended using [Google Colab](https://colab.research.google.com/) for all course materials. 
+Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. It is recommended to use [Google Colab](https://colab.research.google.com/) for all course work. 
 
 __Note:__ It is __YOUR OWN__ responsibility to make sure you have access to at least one of the above computing environments. Please consult Yue Pu if you need technical support.
 
@@ -91,10 +91,10 @@ This class is graded based on a point system (with a total of __1,000__ points),
 
 | Deliverables | Point Value |
 :--- | :---
-| Coding Assignments (4, each worth __50__ points) | 4 x 50 = __200__ points |
+| Coding Assignments (4, each worth __75__ points) | 4 x 75 = __300__ points |
 | Nvidia DLI Workshops (2, each worth __100__ points) | 2 x 100 = __200__ points |
 | Course Project (proposal, milestone report, final report, presentation video) | __400__ points |
-| Course Tutorials | __200__ points |
+| Course Tutorials | __100__ points |
 | __Total__ | __1,000__ points|
 
 ### Grading Scale
@@ -120,13 +120,17 @@ __NOTE:__ All submissions should be in __Jupyter Notebooks__.
 
 __NOTE:__ Please check each week's schedule/checklist frequently for important dates and other information.
 
+### In-class Tutorials
+
+You are supposed to complete and submit __ALL__ in-class tutorials. All submissions have to go through __Google Classroom__.
+
 ### DataCamp Assignments
 
 There are __four (4)__ assignments in this course, which covers different phases/aspects of a deep learning project. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class session and related practices.
 
 <!--TODO: Jie: add datacamp course -->
 
-These assignments will be made available along this course via our [DataCamp course](https://www.datacamp.com/groups/shared_links/7c9f0b836086fae9752638e1ac724f1c5d015ac7818b1a6eae86ac1d5af1df20), please pay attention to each week's schedule/checklist.
+These assignments will be made available along this course via our [DataCamp course](https://www.datacamp.com/groups/shared_links/7c9f0b836086fae9752638e1ac724f1c5d015ac7818b1a6eae86ac1d5af1df20), please pay attention to each week's schedule.
 
 It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects. It is __YOUR__ responsiblity to make sure you have a working DataCamp account, and is enrolled in the DataCamp companion course of this course.
 
@@ -200,11 +204,11 @@ The following course outline is tentative and subject to change when and where d
 :--- | :--- | :--- | :--- 
 | Week1 | What is Deep Learning | IDL Chap 1 |  |
 | Week2 | Neural Networks Basics | IDL Chap 2 - 3 | __Datacamp Assignment 1 Due__ |
-| Long Saturday 1 | Workshop 1: Keras Basics | Extra Contents |  |
+| Long Saturday 1 | Workshop 1: Keras Basics | Extra Contents | Project Proposal |
 | Week3 | Neural Networks Building Blocks | Extra Contents | __DataCamp Assignment 2 Due__ |
-| Week4 | Convolutional Neural Networks | IDL Chap. 5 |  |
+| Week4 | Convolutional Neural Networks | IDL Chap. 5 | Project Milestone |
 | Long Saturday 2 |  | CV Workshop | __DataCamp Assignment 3 Due__ |
 | Week5 | Recurrent Neural Networks | IDL Chap. 6 | |
 | Long Saturday 3 |  | NLP Workshop | __DataCamp Assignment 4 Due__  |
-| Week6 | Advanced Topics in Deep Learning | Extra Contents |  |
+| Week6 | Advanced Topics in Deep Learning | Extra Contents | Final Presentation and Report |
 
