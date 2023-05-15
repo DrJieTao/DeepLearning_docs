@@ -201,13 +201,13 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
-| Week 0 | What is Deep Learning | IDL Chap 1 |  |
-| Week 1 | Neural Networks Basics | IDL Chap 2 - 3 | __Datacamp Assignment 1 Due__ |
-| Week 2 | Neural Networks Building Blocks | Extra Contents | __DataCamp Assignment 2 Due__ |
-| Long Saturday 1 | Workshop 1: Keras Basics | Extra Contents | Project Proposal |
-| Week 3 | Convolutional Neural Networks | IDL Chap. 5 | Project Milestone |
-| Week 4 | Transfer Learning in a Nutshell | Extra Contents | __DataCamp Assignment 3 Due__ |
-| Long Saturday 2 |  | CV Workshop |  |
-| Week 5 | Recurrent Neural Networks | IDL Chap. 6 | __DataCamp Assignment 4 Due__ |
-| Long Saturday 3 |  | NLP Workshop |   |
-| Week 6 | Advanced Topics in Deep Learning | Extra Contents | Final Presentation and Report |
+| Week 0 5/17 | What is Deep Learning | IDL Chap 1 |  |
+| Week 1 5/23 | Neural Networks Basics | IDL Chap 2 - 3 |  |
+| Week 2 5/30 | Neural Networks Building Blocks | Extra Contents | __Datacamp Assignment 1 Due__ |
+| Long Saturday 1 6/3 | Workshop 1: Keras Basics | Extra Contents | Project Proposal |
+| Week 3 6/6 | Convolutional Neural Networks | IDL Chap. 5 | __DataCamp Assignment 2 Due__ |
+| Week 4 6/13 | Transfer Learning in a Nutshell | Extra Contents | Project Milestone |
+| Long Saturday 2 6/17 |  | CV Workshop | __DataCamp Assignment 3 Due__ |
+| Week 5 6/20 | Recurrent Neural Networks | IDL Chap. 6 |  |
+| Long Saturday 3 6/24 |  | NLP Workshop |  __DataCamp Assignment 4 Due__  |
+| Week 6 6/27 | Advanced Topics in Deep Learning | Extra Contents | Final Presentation and Report |
