@@ -21,8 +21,8 @@ Course Syllabus, Summer 2023
 | **Office:** DSBN 347F | **Office Hours:** [Appointment System](https://calendly.com/jtao-4/office-hours), [Zoom](https://fairfield.zoom.us/j/9579872640) or in person        |                  |
 
 ## Course Support Staff
-- Instructional Technologist: Yue Pu (Contact by DM on Slack) 
-- Python Tutors:
+
+- Tutors:
   - Wilson Alexei
 <!-- [Email](mailto:yue.pu@fairfield.edu) -->
 
@@ -206,7 +206,7 @@ The following course outline is tentative and subject to change when and where d
 | Week 2 5/30 | Neural Networks Building Blocks | Extra Contents | __Datacamp Assignment 1 Due__ |
 | Long Saturday 1 6/3 | Workshop 1: Keras Basics | Extra Contents | Project Proposal |
 | Week 3 6/6 | Convolutional Neural Networks | IDL Chap. 5 | __DataCamp Assignment 2 Due__ |
-| Week 4 6/13 | Transfer Learning in a Nutshell | Extra Contents | Project Milestone |
+| Week 4 6/13 | AutoEncoders: Where it all statted | Extra Contents | Project Milestone |
 | Long Saturday 2 6/17 |  | CV Workshop | __DataCamp Assignment 3 Due__ |
 | Week 5 6/20 | Recurrent Neural Networks | IDL Chap. 6 |  |
 | Long Saturday 3 6/24 |  | NLP Workshop |  __DataCamp Assignment 4 Due__  |
