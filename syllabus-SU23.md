@@ -206,7 +206,7 @@ The following course outline is tentative and subject to change when and where d
 | Week 2 5/30 | Neural Networks Building Blocks | Extra Contents | __Datacamp Assignment 1 Due__ |
 | Long Saturday 1 6/3 | Workshop 1: Keras Basics | Extra Contents | Project Proposal |
 | Week 3 6/6 | Convolutional Neural Networks | IDL Chap. 5 | __DataCamp Assignment 2 Due__ |
-| Week 4 6/13 | AutoEncoders: Where it all statted | Extra Contents | Project Milestone |
+| Week 4 6/13 | AutoEncoders: Where it all started | Extra Contents | Project Milestone |
 | Long Saturday 2 6/17 |  | CV Workshop | __DataCamp Assignment 3 Due__ |
 | Week 5 6/20 | Recurrent Neural Networks | IDL Chap. 6 |  |
 | Long Saturday 3 6/24 |  | NLP Workshop |  __DataCamp Assignment 4 Due__  |
